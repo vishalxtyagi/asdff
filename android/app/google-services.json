@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "130189881033",
+    "project_id": "piet-bus-connect",
+    "storage_bucket": "piet-bus-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130189881033:android:a96ca0402605d4cb06a718",
+        "android_client_info": {
+          "package_name": "in.co.piet.busconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130189881033-ih84vs6p7oi8v2hqenvbnqq6g7kurfa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.piet.busconnect",
+            "certificate_hash": "3aed3d08ab62b0c324e613cdc22041f60188aeae"
+          }
+        },
+        {
+          "client_id": "130189881033-nogald7v877gt73nmlc9caep4l97tup6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBZP7w43NAZPrw-fO6huv_U50d4_5TAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130189881033-nogald7v877gt73nmlc9caep4l97tup6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130189881033-qja0oh1ke39dl1obi7b99m7na6tv99ch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.co.piet.busconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
